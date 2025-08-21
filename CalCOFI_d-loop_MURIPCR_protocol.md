@@ -86,8 +86,7 @@ pcr_cycles: 45
 | Qubit dsDNA HS Assay| [Qubit dsDNA HS Assay] (https://tools.thermofisher.com/content/sfs/manuals/Qubit_dsDNA_HS_Assay_UG.pdf)| B.0 | 2015-03-05 | Protocol for using the Qubit to quantify DNA|
 # BACKGROUND
 
-This protocol describes steps for performing PCR for the d-loop region of the mitochondrial control region  using eDNA extracted from sea water. It was developed by the Marine Mammal Remote detection via
-INnovative environmental DNA project team at the University of Washington and NOAA NWFSC.
+This protocol describes steps for performing PCR for the d-loop region of the mitochondrial control region  using eDNA extracted from sea water. It was developed by the Marine Mammal Remote detection via INnovative environmental DNA sampling (MMARINeDNA) team at the University of Washington and NOAA Northwest Fisheries Science Center with funding from the Office of Naval Research’s Multidisciplinary University Research Initiative (MURI) program (Award #N00014-22-1-2719).
 
 ## Summary
 
