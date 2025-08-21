@@ -6,7 +6,7 @@ This repository contains the protocol for performing PCR amplification of the d-
 
 | File Name              | Description            | Concept DOI                          | Latest Version DOI                      |
 |------------------------|-----------------------|---------------------------------------|------------------------------------------|
-| `CalCOFI_d-loop_MURIPCR_protocol.md`        | First version of file |  |  |
+| `CalCOFI_d-loop_MURIPCR_protocol.md`        | v1.0.2 | [10.5281/zenodo.16923327](https://zenodo.org/records/16923328) | [10.5281/zenodo.16923328](https://zenodo.org/records/16923328) |
 
 ## How to Cite
 
